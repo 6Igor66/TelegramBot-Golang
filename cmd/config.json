@@ -1,0 +1,8 @@
+{
+    "bot_settings": {
+      "telegram_token": "",
+      "poller_timeout_ms": 3000,
+      "debug": false,
+      "wallet": ""
+    }
+}
